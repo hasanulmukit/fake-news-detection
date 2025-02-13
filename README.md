@@ -1,9 +1,9 @@
 # Fake News Detection App
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/fake-news-detection-app)
-![GitHub contributors](https://img.shields.io/github/contributors/yourusername/fake-news-detection-app)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/fake-news-detection-app?style=social)
-![GitHub license](https://img.shields.io/github/license/yourusername/fake-news-detection-app)
+![GitHub repo size](https://img.shields.io/github/repo-size/hasanulmukit/fake-news-detection)
+![GitHub contributors](https://img.shields.io/github/contributors/hasanulmukit/fake-news-detection)
+![GitHub stars](https://img.shields.io/github/stars/hasanulmukit/fake-news-detection?style=social)
+![GitHub license](https://img.shields.io/github/license/hasanulmukit/fake-news-detection)
 
 A web application that leverages modern Natural Language Processing (NLP) techniques to classify news articles as **Fake** or **Real**. This project provides two modeling pipelines:
 
